@@ -13,3 +13,7 @@ CUSTOMER SALES SUMMARY
 Tools Used:
 - Snowflake
 - SQL
+
+## Pipeline Output
+
+![Pipeline Result](images/output.png)
