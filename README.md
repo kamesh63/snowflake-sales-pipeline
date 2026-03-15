@@ -16,4 +16,4 @@ Tools Used:
 
 ## Pipeline Output
 
-![Pipeline Result](images/output.png)
+![Pipeline Result](image/output.png)
